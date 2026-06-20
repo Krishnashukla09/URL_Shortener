@@ -31,7 +31,7 @@ url-shortener/
 │ ├── index.html
 │ └── result.html
 ├── static/
-│ └── styles.css (if any)
+│ └── styles.css 
 ├── db_config.sql
 └── README.md
 
